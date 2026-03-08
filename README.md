@@ -1,3 +1,4 @@
+This is a script for fivem!
 Added 2 diffrent snus to the list that can be used in X-inventory
 
 Has a Progressbar
