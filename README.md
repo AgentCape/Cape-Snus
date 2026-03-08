@@ -1,6 +1,7 @@
 Added 2 diffrent snus to the list that can be used in X-inventory
 
-
+Install:
+Drag the file into resources and make sure to ensure Cape-Snus
 
 
     snus_ettan = {
@@ -79,4 +80,4 @@ Added 2 diffrent snus to the list that can be used in X-inventory
     },
 
     Model = GetHashKey("prop_generallos_01")
-}
+    }
