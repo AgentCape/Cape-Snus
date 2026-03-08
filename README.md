@@ -1,5 +1,8 @@
 Added 2 diffrent snus to the list that can be used in X-inventory
 
+Has a Progressbar
+Nicotin kick for 20 seconds.
+
 Install:
 Drag the file into resources and make sure to ensure Cape-Snus
 
